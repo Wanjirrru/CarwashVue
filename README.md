@@ -1,4 +1,14 @@
 # carwash-website
+# Carwash Website Project
+
+My name is Melissa Wanjiru and my admission number is 240138.
+This is a Vue.js-based website for a car wash service.
+It provides an easy-to-use interface for customers to view services, contact the business, and access information about the car wash.
+It has three components. 
+
+## Project Setup
+
+To get started with the project:
 
 ## Project setup
 ```
